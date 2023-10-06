@@ -25,7 +25,7 @@ idP INT NOT NULL,
 puntos INT NOT NULL,
 
 FOREIGN KEY (idJ) REFERENCES jugadores (id),
-FOREIGN KEY (idP) REFERENCES partidas (id),
+FOREIGN KEY (idP) REFERENCES partidas (id_partidas),
 ) ENGINE InnoDB;
 
 INSERT INTO jugadores VALUES (1, 'LauraManso', 1234);
