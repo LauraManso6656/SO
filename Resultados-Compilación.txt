@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Cliente, configuración: Debug Any CPU ------
+1>C:\Users\laura\source\repos\Cliente\Cliente\Program.cs(23,5,23,6): error CS1519: El token "}" no es válido en una clase, un registro, una estructura o una declaración de miembro de interfaz
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
